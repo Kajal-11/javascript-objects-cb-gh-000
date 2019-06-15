@@ -1,4 +1,4 @@
-var playlist = {Kajal: "songA", 
+var playlist = {Kajal: "songA",
                 Sneh: "songB",
                 Harsh: "songC"};
 
